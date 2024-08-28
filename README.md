@@ -1,1 +1,1 @@
-Cannot garentee complete accuracy. Accurate circa 2021.
+Cannot guarantee complete accuracy. Accurate circa 2021.
