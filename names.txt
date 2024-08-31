@@ -1,0 +1,250 @@
+Llevigar Entrance -> Entrance to Gavel
+Llevigar Gate East -> Llevigar Gate
+Llevigar Gate West -> Sanguine Spider Den
+Llevigar Farm Plains East -> Llevigar Stables
+Llevigar Farm Plains West -> Cliffhearth Orc Camp
+Llevigar Plains East Lower -> Trunkstump Goblin Camp
+Llevigar Plains West Lower -> Meteor Trail
+Llevigar Plains East Upper -> Stonecave Orc Camp
+Llevigar Plains West Upper-> Brigand Outpost
+Sablestone Camp -> Sablestone Orc Camp
+Loamsprout Camp -> Loamsprout Orc Camp
+Pre-Light Forest Transition -> Entrance to Bucie
+Quartz Mines North West -> Shineridge Orc Camp
+Quartz Mines North East -> Bucie Waterfall
+Quartz Mines South West -> Karoc Quarry
+Quartz Mines South East -> Harnort Compound
+Leadin Fortress -> Centerworld Fortress
+Road To Light Forest -> Road to Light Forest
+Swamp Mountain Transition Lower -> Scorpion Nest
+Swamp Mountain Transition Mid -> Secluded Workshop
+Swamp Mountain Transition Mid-Upper -> Naga Lake
+Swamp Mountain Transition Upper -> Path to the Grootslangs
+Swamp Dark Forest Transition Upper -> Olux Lumberyard
+Swamp West Upper -> Infested Sinkhole
+Swamp East Upper -> Forgotten Burrows
+Swamp West Mid-Upper -> Witching Road
+Swamp East Mid-Upper -> Maiden Tower
+Swamp West Mid -> Ogre Den
+Swamp East Mid -> Floral Peaks
+Swamp West Lower -> Collapsed Emerald Mine
+Swamp East Lower -> Mudspring Orc Camp
+Swamp Plains Basin -> Shady Shack
+Swamp Mountain Base -> Swamp Mountain Arch
+Sunspark Camp -> Sunspark Orc Camp
+Swamp Lower -> Lizardman Camp
+Swamp Dark Forest Transition Mid -> Lizardman Lake
+Swamp Dark Forest Transition Lower -> Bloody Trail
+Efilim Village -> Efilim
+Efilim East Plains -> Minotaur Barbecue
+Efilim South Plains -> Efilim Crossroads
+Efilim South East Plains -> Path to the Forgery
+Light Forest East Upper -> The Forgery
+Light Forest East Lower -> Mycelial Expanse
+Light Forest North Entrance -> Guardian of the Forest
+Light Forest Entrance -> Wood Sprite Hideaway
+Light Forest South Entrance -> Path to Light’s Secret
+Light Forest West Upper -> Unicorn Trail
+Light Forest West Mid -> Dodegar’s Forge
+Light Forest West Lower -> Luxuriant Pond
+Light Forest East Mid -> Collapsed Bridge
+Light Forest Canyon -> Chasm Overlook
+Light Forest North Exit -> Chasm Chokepoint
+Light Forest South Exit -> Myconid Descent
+Hobbit River -> The Shiar
+Aldorei Valley West Entrance -> Aldorei Valley Outskirts
+Gelibord Castle -> Castle Dullahan
+Gelibord Corrupted Farm -> Gelibord Watermill
+Taproot Descent -> Fading Forest
+Mansion of Insanity -> Caritat Mansion
+Fortress North -> Overtaken Outpost
+Fortress South -> Mangled Lake
+Lone Farmstead -> Enchanted River
+Lexdales Prison -> Lexdale Penitentiary
+Abandoned Manor -> Faltach Manor
+Old Crossroads North -> Old Crossroads
+Old Crossroads South -> Talor Cemetery
+Viscera Pits West -> Path to the Penitentiary
+Viscera Pits East -> Viscera Pits
+Hive -> The Hive
+Hive South -> Path to the Dojo
+Path to Ozoth’s Spire Upper -> Path to Ozoth’s Spire
+Path to Ozoth’s Spire Mid -> Molten Passage
+Path to Ozoth’s Spire Lower -> Upper Thanos
+Cinfras Thanos Transition -> Secluded Ponds
+Bandit Cave Upper -> Bandit Cave
+Bandit Cave Lower -> Inhospitable Mountain
+Bandit Camp Exit -> Perilous Passage
+Thanos Exit Upper -> Illuminant Path
+Canyon Walk Way -> Canyon Walkway
+Bandits Toll -> Bandit’s Toll
+Cliffside Waterfall -> Wanderer’s Way
+Cliffside Valley -> Workshop Glade
+Cherry Blossom Forest -> Cherry Blossom Grove
+Entrance to Thesead South -> Entrance to Thesead
+Entrance to Thesead North -> Thesead Underpass
+Air Temple Upper -> Bantisu Air Temple
+Air Temple Lower -> Bantisu Approach
+Canyon Mountain East -> Wizard’s Warning
+Canyon Mountain South -> Harpy’s Haunt North
+Wizard Tower North -> Wizard Tower
+Canyon Valley South -> Perilous Grotto
+Canyon Entrance Waterfall -> Cascading Basins
+Canyon Path North Mid -> Wayward Split
+Canyon Path South West -> Turncoat Turnabout
+Canyon Path North West -> Cyclospordial Hazard
+Canyon Path South East -> Winding Waters
+Canyon Lower South East -> Parasitic Slime Mine
+Canyon Upper North West -> Panda Kingdom
+Canyon Waterfall Mid North -> Harpy’s Haunt South
+Canyon Waterfall North -> Panda Path
+Canyon Fortress -> Fleris Cranny
+Canyon Survivor -> Troll Tower
+Cliff Side of the Lost -> Featherfall Cliffs
+Valley of the Lost -> Elefolk Stomping Grounds
+Canyon Of The Lost -> Protector’s Pathway
+Cliffside Lake -> Elephelk Trail
+Temple of the Lost East -> Hobgoblin’s Hoard
+Cliffside Passage -> Cliffside Passage South
+Aldorei’s Arch -> Timeworn Arch
+Path to the Arch -> Pine Pillar Forest
+Ghostly Path -> Evergreen Outbreak
+Mountain Path -> Rocky Bend
+Mountain Edge -> Housing Crisis
+Chained House -> Displaced Housing
+Entrance to Rodoroc -> Entrance to Molten Heights
+Molten Heights Portal -> Dogun Ritual Site
+Lava Lake Bridge -> Lava Lakes
+Active Volcano -> Pyroclastic Flow
+Lava Lake -> Freezing Heights
+Volcanic Slope -> Dragonbone Graveyard
+Fallen Village -> Weird Clearing
+Gylia Lake North West -> Gylia Lakehouse
+Gylia Lake North East -> Gylia Watchtower
+Gylia Lake South West -> Gylia Research Cabin
+Gylia Lake South East -> Cosmic Fissures
+Military Base -> Kitrios Barracks
+Military Base Upper -> Colourful Mountaintop
+Military Base Lower -> Troll’s Challenge
+Path to Military Base -> Kitrios Armory
+Thanos Valley West -> Thanos Underpass
+Dark Forest Cinfras Transition -> Fallen Village
+Path To Thanos -> Path to Thanos
+Cinfras Entrance -> Entrance to Cinfras
+Cinfras County Upper -> Gylia Fisherman Camp
+Cinfras County Mid-Upper -> Celestial Impact
+Cinfras County Mid-Lower -> Silverbull Headquarters
+Aldorei’s River -> Aldorei River
+Aldorei Lowlands -> Felroc Fields
+Cinfras County Lower -> Paper Trail
+Aldorei Valley Upper -> Aldorei Valley
+Aldorei’s Waterfall -> Aldorei Cliffside Waterfalls
+Aldorei Valley South Entrance -> Big Mushroom Cave
+Aldorei’s North Exit -> Waterfall Cave
+Aldorei Valley Lower -> Aldorei Springs
+Aldorei Valley Mid -> Outer Aldorei Town
+Path to Ahmsord Upper -> Aerial Descent
+Path to Ahmsord Lower -> Path to Ahmsord
+Raider’s Base Upper -> Raiders’ Stronghold
+Raider’s Base Lower -> Raiders’ Airbase
+The Bear Zoo -> Bear Zoo
+Durum Isles Center -> Durum Isles Barn
+Durum Isles Upper -> Durum Barley Islet
+Durum Isles East -> Durum Oat Islet
+Durum Isles Lower -> Durum Malt Islet
+Skiens Island -> Skien’s Island
+Dead Island North East -> Lifeless Forest
+Dead Island South East -> Disturbed Crypt
+Dead Island North West -> Derelict Mansion
+Dead Island South West ->Dreary Docks
+Volcano Upper -> Volcanic Isles
+Volcano Lower -> Volcanic Excavation
+Corkus City South -> Corkus City Crossroads
+Road To Mine -> Road to Mine
+Factory Entrance -> Industrial Clearing
+Corkus Forest South -> Corkus Forest
+Corkus Forest North -> Picnic Pond
+Corkus Mountain -> Avos Territory
+Avos Workshop -> Ava’s Workshop
+Corkus Docks -> Overrun Docks
+Corkus Countryside -> Retrofitted Manufactory
+Corkus Sea Port -> Relos
+Corkus Statue -> Founder’s Statue
+Lighthouse Plateau -> Balloon Airbase
+Phinas Farm -> Lighthouse Lookout
+Rymek East Lower -> Rymek
+Rymek East Mid -> Sunrise Plateau
+Rymek East Upper -> Eagle Tribe
+Rymek West Lower -> Ruined Prospect
+Rymek West Mid -> Sunset Plateau
+Rymek West Upper -> Owl Tribe
+Desert East Upper -> Invaded Barracks
+Desert East Mid -> Barren Sands
+Desert East Lower -> Accursed Dunes
+Desert Upper -> Cascading Oasis
+Desert Mid-Upper -> Gloopy Cave
+Desert Mid-Lower -> Ruined Villa
+Desert Lower -> Ancient Excavation
+Almuj City -> Almuj
+Desert West Upper -> Dusty Pit
+Desert West Lower -> Almuj Slums
+Savannah East Upper -> Entrance to Almuj
+Savannah East Lower -> Ternaves Tunnel
+Nether Gate -> Roots of Corruption
+Detlas Suburbs -> Corrupted Orchard
+Detlas Close Suburbs -> Detlas Suburbs
+Savannah West Lower -> Lava Springs
+Savannah West Upper -> Savannah Plains
+Ternaves Plains Upper -> Black Road
+Ternaves Plains Lower -> Abandoned Mines Entrance
+Mining Base Upper -> Mining Base Camp
+Mining Base Lower -> Abandoned Mines
+Nether Plains Lower -> Corrupted River
+Detlas Savannah Transition -> Essren’s Hut
+Nether Plains Upper -> Corrupted Warfront
+Detlas Trail East Plains -> Scorched Trail
+Nivla Woods Entrance -> Entrance to Nivla Woods
+Ragni North Suburbs -> Riverbank Knoll
+Ragni East Suburbs -> Ragni Countryside South
+Ragni Plains -> Ragni Countryside North
+Maltic Plains -> Farmers Settlement
+Plains -> Nomads’ Refuge
+Detlas Far Suburbs -> Akias Ruins
+Detlas Trail West Plains -> Corrupted Tower
+South Farmers Valley -> Ancient Waterworks
+North Farmers Valley -> Jagged Foothills 
+Nemract Quarry -> Blackstring Den
+Nivla Woods Exit -> Alekin
+South Nivla Woods -> Blooming Boulders
+North Nivla Woods -> Arachnid Woods
+Pigmen Ravines Entrance -> Ragni South Entrance
+South Pigmen Ravines -> Sulphuric Hollow
+Elkurn Fields -> Tempo Town
+Arachnid Route -> Webbed Fracture
+Nivla Woods Edge -> Nivla Woods Exit
+Nemract Town -> Nemract
+Plains Coast -> Rocky Shore
+Nemract Road -> Mount Wynn Inn
+Nemract Plains West -> Nested Cliffside
+Nemract Plains East -> Razed Inn
+Great Bridge Jungle -> Jungle Entrance
+Jungle Lower -> Monte’s Village
+Jungle Mid -> Apprentice Huts
+Jungle Upper -> Iboju Village
+Jungle Lake -> Troms Lake
+City of Troms -> Troms
+Dernel Jungle Lower -> Entamis Village
+Dernel Jungle Mid -> Fountain of Youth
+Dernel Jungle Upper -> Delnar Manor
+The Silent Road -> Silent Road
+The Broken Road -> Broken Road
+Otherwordly Monolith -> Otherworldly Monolith
+Nesaak Plains South East -> Wolves’ Den
+Nesaak Plains South West -> Frigid Crossroads
+Nesaak Plains North East -> Florist’s Hut
+Nesaak Plains Lower North West -> Frozen Homestead
+Nesaak Plains Upper North West -> Frosty Spikes
+Nesaak Village -> Nesaak
+Nesaak Bridge Transition -> Icy Vigil
+Nesaak Plains Mid North West -> Abandoned Lumberyard
+Great Bridge Nesaak -> Great Bridge
