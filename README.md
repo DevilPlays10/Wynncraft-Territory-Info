@@ -35,7 +35,7 @@ I welcome contributions to this project via **pull requests**. Please follow the
 
 The **expected data structure** is as follows:
 
-\`\`\`json
+```json
 {
   "territoryName": {
     "guild": {
@@ -60,7 +60,7 @@ The **expected data structure** is as follows:
     }
   }
 }
-\`\`\`
+```
 
 ---
 
