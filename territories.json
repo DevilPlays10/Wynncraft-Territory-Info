@@ -89,7 +89,7 @@
     "Trading Routes": [
       "Thanos",
       "Secluded Ponds",
-      "Path to Ozothâ€™s Spire",
+      "Path to Ozoth's Spire",
       "Gylia Fisherman Camp"
     ],
     "Guild": {
@@ -808,7 +808,7 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Wizardâ€™s Warning",
+      "Wizard's Warning",
       "Perilous Passage",
       "Inhospitable Mountain"
     ],
@@ -1069,7 +1069,7 @@
     },
     "Acquired": ""
   },
-  "Wizardâ€™s Warning": {
+  "Wizard's Warning": {
     "resources": {
       "emeralds": "9000",
       "ore": "7200",
@@ -1086,7 +1086,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        271,
+        -5039
+      ],
+      "end": [
+        337,
+        -4948
+      ]
+    }
   },
   "Fallen Village": {
     "resources": {
@@ -1840,7 +1850,7 @@
     "Trading Routes": [
       "Hobgoblin’s Hoard",
       "Wizard Tower",
-      "Harpyâ€™s Haunt North",
+      "Harpy's Haunt North",
       "Bantisu Approach"
     ],
     "Location": {
@@ -2652,7 +2662,7 @@
     },
     "Acquired": ""
   },
-  "Wandererâ€™s Way": {
+  "Wanderer's Way": {
     "resources": {
       "emeralds": "1800",
       "ore": "900",
@@ -2668,7 +2678,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        440,
+        -5183
+      ],
+      "end": [
+        563,
+        -5080
+      ]
+    }
   },
   "Valley of the Lost": {
     "resources": {
@@ -4061,7 +4081,7 @@
       "Collapsed Bridge",
       "Mantis Nest",
       "The Shiar",
-      "Dodegarâ€™s Forge"
+      "Dodegar's Forge"
     ],
     "Location": {
       "start": [
@@ -4171,7 +4191,7 @@
     },
     "Acquired": ""
   },
-  "Dodegarâ€™s Forge": {
+  "Dodegar's Forge": {
     "resources": {
       "emeralds": "9000",
       "ore": "0",
@@ -4190,7 +4210,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        -929,
+        -4552
+      ],
+      "end": [
+        -1014,
+        -4706
+      ]
+    }
   },
   "Path To Military Base": {
     "resources": {
@@ -4221,7 +4251,7 @@
     },
     "Trading Routes": [
       "Path to the Forgery",
-      "Dodegarâ€™s Forge",
+      "Dodegar's Forge",
       "Collapsed Bridge",
       "Guardian of the Forest"
     ],
@@ -5707,7 +5737,7 @@
     "Trading Routes": [
       "Bantisu Approach",
       "Entrance to Thesead",
-      "Banditâ€™s Toll",
+      "Bandit's Toll",
       "Thesead Underpass"
     ],
     "Location": {
@@ -5807,7 +5837,7 @@
       ]
     }
   },
-  "Path to Ozothâ€™s Spire": {
+  "Path to Ozoth's Spire": {
     "resources": {
       "emeralds": "9000",
       "ore": "0",
@@ -5826,7 +5856,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        194,
+        -5165
+      ],
+      "end": [
+        111,
+        -5045
+      ]
+    }
   },
   "Luxuriant Pond": {
     "resources": {
@@ -5838,8 +5878,8 @@
     },
     "Trading Routes": [
       "The Shiar",
-      "Path to Lightâ€™s Secret",
-      "Dodegarâ€™s Forge"
+      "Path to Light's Secret",
+      "Dodegar's Forge"
     ],
     "Location": {
       "start": [
@@ -7453,7 +7493,7 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Path to Ozothâ€™s Spire",
+      "Path to Ozoth's Spire",
       "Perilous Grotto"
     ],
     "Location": {
@@ -7503,8 +7543,8 @@
     },
     "Trading Routes": [
       "Molten Passage",
-      "Banditâ€™s Toll",
-      "Wizardâ€™s Warning"
+      "Bandit's Toll",
+      "Wizard's Warning"
     ],
     "Location": {
       "start": [
@@ -8464,9 +8504,9 @@
       "wood": "3600"
     },
     "Trading Routes": [
-      "Path to Lightâ€™s Secret",
+      "Path to Light's Secret",
       "Road to Light Forest",
-      "Dodegarâ€™s Forge",
+      "Dodegar's Forge",
       "Guardian of the Forest"
     ],
     "Location": {
@@ -9593,7 +9633,7 @@
     },
     "Trading Routes": [
       "Field of Life",
-      "Path to Lightâ€™s Secret"
+      "Path to Light's Secret"
     ],
     "Location": {
       "start": [
@@ -9782,7 +9822,7 @@
     },
     "Acquired": ""
   },
-  "Path to Lightâ€™s Secret": {
+  "Path to Light's Secret": {
     "resources": {
       "emeralds": "1800",
       "ore": "900",
@@ -9800,7 +9840,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        -1134,
+        -4548
+      ],
+      "end": [
+        -1038,
+        -4426
+      ]
+    }
   },
   "Cascading Oasis": {
     "resources": {
@@ -9991,7 +10041,7 @@
     },
     "Trading Routes": [
       "Krolton's Cave",
-      "Banditâ€™s Toll"
+      "Bandit's Toll"
     ],
     "Location": {
       "start": [
@@ -10132,7 +10182,7 @@
     },
     "Trading Routes": [
       "Fleris Cranny",
-      "Harpyâ€™s Haunt North",
+      "Harpy's Haunt North",
       "Wayward Split"
     ],
     "Guild": {
@@ -10801,7 +10851,7 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Banditâ€™s Toll",
+      "Bandit's Toll",
       "The Hive",
       "Canyon High Path",
       "Path to the Dojo",
@@ -11228,7 +11278,7 @@
       ]
     }
   },
-  "Banditâ€™s Toll": {
+  "Bandit's Toll": {
     "resources": {
       "emeralds": "9000",
       "ore": "3600",
@@ -11247,7 +11297,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        439,
+        -5038
+      ],
+      "end": [
+        345,
+        -5181
+      ]
+    }
   },
   "Toxic Drip": {
     "resources": {
@@ -11288,7 +11348,7 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Wandererâ€™s Way",
+      "Wanderer's Way",
       "Illuminant Path",
       "Path to the Dojo"
     ],
@@ -11351,7 +11411,7 @@
       "Burning Airship",
       "Path to Thanos",
       "Celestial Impact",
-      "Path to Ozothâ€™s Spire"
+      "Path to Ozoth's Spire"
     ],
     "Location": {
       "start": [
@@ -11440,7 +11500,7 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Path to Ozothâ€™s Spire",
+      "Path to Ozoth's Spire",
       "Canyon Walkway"
     ],
     "Location": {
@@ -11551,7 +11611,7 @@
       ]
     }
   },
-  "Harpyâ€™s Haunt North": {
+  "Harpy's Haunt North": {
     "resources": {
       "emeralds": "9000",
       "ore": "3600",
@@ -11568,7 +11628,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        271,
+        -4946
+      ],
+      "end": [
+        337,
+        -4857
+      ]
+    }
   },
   "Bantisu Approach": {
     "resources": {
