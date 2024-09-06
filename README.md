@@ -64,7 +64,7 @@ Example Territory:
 
 ## **Field Inconsistencies**
 
-Due to limitations with the API, some territories may have missing fields such as **Location** or **Guild** data. If you have access to this information, I encourage you to provide updates. Guild fields are intentionally left as empty strings.
+Due to limitations with the API, some territories may have missing fields such as **Location**. If you have access to this information, I encourage you to provide updates. Guild fields are intentionally left as empty strings.
 
 ---
 
