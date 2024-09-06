@@ -12,7 +12,7 @@ The `territories.json` file contains key details for each territory, including:
 - **Resources**: Details available resources such as emeralds, ore, crops, fish, and wood. Status: **Cannot Verify Accuracy**
 - **Trade Routes**: Lists trade connections between territories. Status: **Cannot Verify Accuracy**
 - **Location**: Specifies the geographical start and end points of each territory when available. Status: **Accurate, some territories missing info**
-- **Guild**: This field is intentionally left as **blank strings** (`""`) due to the dynamic nature of guild ownership in Wynn.
+- **Guild** and **Acquired** This field is intentionally left as **blank strings** (`""`) due to the dynamic nature of guild ownership in Wynn.
 
 It is important to note that some fields, such as **Location**, may be missing for certain territories due to **API Bugs**.
 
