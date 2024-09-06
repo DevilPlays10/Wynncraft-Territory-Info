@@ -37,7 +37,7 @@
     },
     "Trading Routes": [
       "Tree Island",
-      "Skien’s Island"
+      "Skien's Island"
     ],
     "Location": {
       "start": [
@@ -56,7 +56,7 @@
     },
     "Acquired": ""
   },
-  "Nomads’ Refuge": {
+  "Nomads' Refuge": {
     "resources": {
       "emeralds": "9000",
       "ore": "0",
@@ -76,7 +76,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        -435,
+        -1883
+      ],
+      "end": [
+        -270,
+        -1653
+      ]
+    }
   },
   "Path to Thanos": {
     "resources": {
@@ -121,7 +131,7 @@
       "Black Road",
       "Ternaves Tunnel",
       "Savannah Plains",
-      "Essren’s Hut"
+      "Essren's Hut"
     ],
     "Guild": {
       "uuid": "",
@@ -180,7 +190,7 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Skien’s Island",
+      "Skien's Island",
       "Durum Isles Barn",
       "Durum Barley Islet",
       "Durum Malt Islet",
@@ -233,7 +243,7 @@
     },
     "Acquired": ""
   },
-  "Wolves’ Den": {
+  "Wolves' Den": {
     "resources": {
       "emeralds": "9000",
       "ore": "0",
@@ -251,7 +261,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        76,
+        -757
+      ],
+      "end": [
+        230,
+        -660
+      ]
+    }
   },
   "Trunkstump Goblin Camp": {
     "resources": {
@@ -359,7 +379,7 @@
       "Plains Lake",
       "Mining Base Camp",
       "Abandoned Mines Entrance",
-      "Essren’s Hut"
+      "Essren's Hut"
     ],
     "Location": {
       "start": [
@@ -378,7 +398,7 @@
     },
     "Acquired": ""
   },
-  "Essren’s Hut": {
+  "Essren's Hut": {
     "resources": {
       "emeralds": "9000",
       "ore": "0",
@@ -397,7 +417,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        545,
+        -1520
+      ],
+      "end": [
+        650,
+        -1670
+      ]
+    }
   },
   "Mangled Lake": {
     "resources": {
@@ -589,7 +619,7 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Nomads’ Refuge",
+      "Nomads' Refuge",
       "Maltic",
       "Emerald Trail",
       "Ragni Countryside South",
@@ -746,8 +776,8 @@
       "wood": "3600"
     },
     "Trading Routes": [
-      "Wolves’ Den",
-      "Florist’s Hut",
+      "Wolves' Den",
+      "Florist's Hut",
       "Nesaak"
     ],
     "Location": {
@@ -932,7 +962,7 @@
     "Trading Routes": [
       "Cascading Basins",
       "Perilous Passage",
-      "Harpy’s Haunt South",
+      "Harpy's Haunt South",
       "Turncoat Turnabout"
     ],
     "Location": {
@@ -1138,7 +1168,7 @@
     },
     "Trading Routes": [
       "Cliffside Passage South",
-      "Protector’s Pathway"
+      "Protector's Pathway"
     ],
     "Guild": {
       "uuid": "",
@@ -1376,7 +1406,7 @@
       "wood": "3600"
     },
     "Trading Routes": [
-      "Troll’s Challenge"
+      "Troll's Challenge"
     ],
     "Guild": {
       "uuid": "",
@@ -1848,7 +1878,7 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Hobgoblin’s Hoard",
+      "Hobgoblin's Hoard",
       "Wizard Tower",
       "Harpy's Haunt North",
       "Bantisu Approach"
@@ -1940,7 +1970,7 @@
       "Nesaak",
       "Frosty Spikes",
       "Frigid Crossroads",
-      "Florist’s Hut"
+      "Florist's Hut"
     ],
     "Guild": {
       "uuid": "",
@@ -2301,7 +2331,7 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Nomads’ Refuge",
+      "Nomads' Refuge",
       "Maltic Coast",
       "Farmers Settlement",
       "Jagged Foothills",
@@ -2515,7 +2545,7 @@
     },
     "Trading Routes": [
       "Thanos",
-      "Troll’s Challenge"
+      "Troll's Challenge"
     ],
     "Location": {
       "start": [
@@ -2621,7 +2651,7 @@
     },
     "Acquired": ""
   },
-  "Skien’s Island": {
+  "Skien's Island": {
     "resources": {
       "emeralds": "9000",
       "ore": "3600",
@@ -2640,7 +2670,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        527,
+        -3386
+      ],
+      "end": [
+        297,
+        -3644
+      ]
+    }
   },
   "Pyroclastic Flow": {
     "resources": {
@@ -2699,9 +2739,9 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Hobgoblin’s Hoard",
+      "Hobgoblin's Hoard",
       "Fleris Cranny",
-      "Protector’s Pathway",
+      "Protector's Pathway",
       "Featherfall Cliffs"
     ],
     "Guild": {
@@ -2814,7 +2854,7 @@
       "Santa's Hideout",
       "Dujgon Nation",
       "Icy Island",
-      "Skien’s Island",
+      "Skien's Island",
       "Durum Barley Islet"
     ],
     "Location": {
@@ -2844,7 +2884,7 @@
     },
     "Trading Routes": [
       "Nested Cliffside",
-      "Nomads’ Refuge",
+      "Nomads' Refuge",
       "Arachnid Woods"
     ],
     "Guild": {
@@ -3136,7 +3176,7 @@
       ]
     }
   },
-  "Ava’s Workshop": {
+  "Ava's Workshop": {
     "resources": {
       "emeralds": "9000",
       "ore": "0",
@@ -3310,7 +3350,7 @@
       "wood": "900"
     },
     "Trading Routes": [
-      "Harpy’s Haunt South",
+      "Harpy's Haunt South",
       "Valley of the Lost"
     ],
     "Guild": {
@@ -3860,7 +3900,7 @@
     },
     "Trading Routes": [
       "Kitrios Barracks",
-      "Troll’s Challenge"
+      "Troll's Challenge"
     ],
     "Guild": {
       "uuid": "",
@@ -4031,7 +4071,7 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Protector’s Pathway"
+      "Protector's Pathway"
     ],
     "Location": {
       "start": [
@@ -4402,7 +4442,7 @@
       "Abandoned Lumberyard",
       "Sanctuary Bridge",
       "Elkurn",
-      "Florist’s Hut"
+      "Florist's Hut"
     ],
     "Guild": {
       "uuid": "",
@@ -4431,7 +4471,7 @@
     },
     "Trading Routes": [
       "Detlas Suburbs",
-      "Essren’s Hut",
+      "Essren's Hut",
       "Scorched Trail"
     ],
     "Location": {
@@ -4491,7 +4531,7 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Founder’s Statue",
+      "Founder's Statue",
       "Corkus Sea Cove",
       "Road to Mine"
     ],
@@ -4693,7 +4733,7 @@
     },
     "Acquired": ""
   },
-  "Florist’s Hut": {
+  "Florist's Hut": {
     "resources": {
       "emeralds": "9000",
       "ore": "0",
@@ -4713,7 +4753,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        110,
+        -873
+      ],
+      "end": [
+        240,
+        -1035
+      ]
+    }
   },
   "Desolate Valley": {
     "resources": {
@@ -5147,7 +5197,7 @@
     },
     "Trading Routes": [
       "Bloody Beach",
-      "Ava’s Workshop",
+      "Ava's Workshop",
       "Retrofitted Manufactory"
     ],
     "Location": {
@@ -5488,7 +5538,7 @@
     "Trading Routes": [
       "Lava Springs",
       "Abandoned Mines Entrance",
-      "Essren’s Hut",
+      "Essren's Hut",
       "Ternaves"
     ],
     "Guild": {
@@ -6046,7 +6096,7 @@
     },
     "Acquired": ""
   },
-  "Hobgoblin’s Hoard": {
+  "Hobgoblin's Hoard": {
     "resources": {
       "emeralds": "9000",
       "ore": "3600",
@@ -6226,7 +6276,7 @@
     },
     "Trading Routes": [
       "Great Bridge",
-      "Monte’s Village",
+      "Monte's Village",
       "Herb Cave"
     ],
     "Guild": {
@@ -6348,7 +6398,7 @@
     },
     "Trading Routes": [
       "Icy Vigil",
-      "Wolves’ Den",
+      "Wolves' Den",
       "Twain Lake",
       "Frozen Homestead",
       "Icy Descent",
@@ -6780,7 +6830,7 @@
     },
     "Trading Routes": [
       "Fountain of Youth",
-      "Monte’s Village"
+      "Monte's Village"
     ],
     "Guild": {
       "uuid": "",
@@ -7260,7 +7310,7 @@
     "Trading Routes": [
       "Valley of the Lost",
       "Housing Crisis",
-      "Protector’s Pathway",
+      "Protector's Pathway",
       "Canyon Survivor",
       "Canyon Dropoff"
     ],
@@ -7432,7 +7482,7 @@
     },
     "Trading Routes": [
       "Nivla Woods Exit",
-      "Nomads’ Refuge",
+      "Nomads' Refuge",
       "Alekin",
       "Webbed Fracture"
     ],
@@ -7513,7 +7563,7 @@
     },
     "Acquired": ""
   },
-  "Troll’s Challenge": {
+  "Troll's Challenge": {
     "resources": {
       "emeralds": "9000",
       "ore": "3600",
@@ -8170,7 +8220,7 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Founder’s Statue",
+      "Founder's Statue",
       "Retrofitted Manufactory",
       "Bloody Beach"
     ],
@@ -8926,7 +8976,7 @@
       "Corrupted River",
       "Desolate Valley",
       "Elkurn",
-      "Florist’s Hut"
+      "Florist's Hut"
     ],
     "Location": {
       "start": [
@@ -9419,9 +9469,9 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Wolves’ Den",
+      "Wolves' Den",
       "Bob's Tomb",
-      "Florist’s Hut",
+      "Florist's Hut",
       "Frigid Crossroads",
       "Frozen Homestead"
     ],
@@ -9751,7 +9801,7 @@
     },
     "Trading Routes": [
       "Dujgon Nation",
-      "Skien’s Island",
+      "Skien's Island",
       "Derelict Mansion",
       "Disturbed Crypt"
     ],
@@ -9781,7 +9831,7 @@
       "wood": "3600"
     },
     "Trading Routes": [
-      "Monte’s Village",
+      "Monte's Village",
       "Iboju Village",
       "Troms Lake"
     ],
@@ -10060,7 +10110,7 @@
     },
     "Acquired": ""
   },
-  "Protector’s Pathway": {
+  "Protector's Pathway": {
     "resources": {
       "emeralds": "9000",
       "ore": "3600",
@@ -10079,7 +10129,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        443,
+        -4566
+      ],
+      "end": [
+        570,
+        -4392
+      ]
+    }
   },
   "Ruined Prospect": {
     "resources": {
@@ -10172,7 +10232,7 @@
       ]
     }
   },
-  "Harpy’s Haunt South": {
+  "Harpy's Haunt South": {
     "resources": {
       "emeralds": "9000",
       "ore": "3600",
@@ -11027,7 +11087,7 @@
     },
     "Acquired": ""
   },
-  "Monte’s Village": {
+  "Monte's Village": {
     "resources": {
       "emeralds": "9000",
       "ore": "0",
@@ -11076,7 +11136,7 @@
       ]
     }
   },
-  "Founder’s Statue": {
+  "Founder's Statue": {
     "resources": {
       "emeralds": "9000",
       "ore": "0",
@@ -11093,7 +11153,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        -1322,
+        -2917
+      ],
+      "end": [
+        -1393,
+        -2836
+      ]
+    }
   },
   "The Hive": {
     "resources": {
@@ -11532,7 +11602,7 @@
       "Nivla Woods",
       "Road to Time Valley",
       "Emerald Trail",
-      "Nomads’ Refuge"
+      "Nomads' Refuge"
     ],
     "Guild": {
       "uuid": "",
@@ -11620,7 +11690,7 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Harpy’s Haunt South",
+      "Harpy's Haunt South",
       "Krolton's Cave"
     ],
     "Guild": {
