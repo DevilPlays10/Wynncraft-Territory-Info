@@ -31,12 +31,11 @@ I welcome contributions to this project via **pull requests**. Please follow the
 ### **Steps to Contribute**
 1. **Fork** the repository.
 2. **Modify** the `territories.json` file while maintaining the data structure (outlined below).
-3. **Submit** a pull request with a brief summary of the changes made.
+3. **Submit** a pull request with a summary of the changes made.
 
-The **expected data structure** is as follows:
+Example Territory:
 
 ```json
-{
   "territoryName": {
     "guild": {
       "uuid": "",
@@ -59,7 +58,6 @@ The **expected data structure** is as follows:
       "end": [x, y]
     }
   }
-}
 ```
 
 ---
