@@ -469,8 +469,8 @@
       "wood": "3600"
     },
     "Trading Routes": [
-      "Aldorei's River",
-      "Aldorei's Waterfall",
+      "Aldorei River",
+      "Aldorei Cliffside Waterfalls",
       "Cinfras's Small Farm"
     ],
     "Guild": {
@@ -1502,7 +1502,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        405,
+        -2846
+      ],
+      "end": [
+        504,
+        -2972
+      ]
+    }
   },
   "Panda Path": {
     "resources": {
@@ -1514,7 +1524,7 @@
     },
     "Trading Routes": [
       "Panda Kingdom",
-      "Aldorei's Arch"
+      "Timeworn Arch"
     ],
     "Guild": {
       "uuid": "",
@@ -2515,7 +2525,7 @@
     "Trading Routes": [
       "Path to Thanos",
       "Upper Thanos",
-      "Path To Military Base",
+      "Kitrios Armory",
       "Cosmic Fissures"
     ],
     "Location": {
@@ -2700,7 +2710,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        1233,
+        -5553
+      ],
+      "end": [
+        1379,
+        -5369
+      ]
+    }
   },
   "Wanderer's Way": {
     "resources": {
@@ -2730,7 +2750,7 @@
       ]
     }
   },
-  "Valley of the Lost": {
+  "Elefolk Stomping Grounds": {
     "resources": {
       "emeralds": "9000",
       "ore": "3600",
@@ -2749,7 +2769,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        435,
+        -4511
+      ],
+      "end": [
+        341,
+        -4670
+      ]
+    }
   },
   "Frozen Fort": {
     "resources": {
@@ -3192,7 +3222,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        -1681,
+        -3178
+      ],
+      "end": [
+        -1888,
+        -3375
+      ]
+    }
   },
   "Scorpion Nest": {
     "resources": {
@@ -3351,7 +3391,7 @@
     },
     "Trading Routes": [
       "Harpy's Haunt South",
-      "Valley of the Lost"
+      "Elefolk Stomping Grounds"
     ],
     "Guild": {
       "uuid": "",
@@ -3939,7 +3979,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        -929,
+        -3831
+      ],
+      "end": [
+        -722,
+        -3530
+      ]
+    }
   },
   "Entrance to Olux": {
     "resources": {
@@ -4090,7 +4140,7 @@
     },
     "Acquired": ""
   },
-  "Raider's Base Upper": {
+  "Raiders' Stronghold": {
     "resources": {
       "emeralds": "9000",
       "ore": "3600",
@@ -4100,14 +4150,24 @@
     },
     "Trading Routes": [
       "Sky Island Ascent",
-      "Raider's Base Lower"
+      "Raiders' Airbase"
     ],
     "Guild": {
       "uuid": "",
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        1380,
+        -4457
+      ],
+      "end": [
+        1551,
+        -4316
+      ]
+    }
   },
   "Mycelial Expanse": {
     "resources": {
@@ -4262,7 +4322,7 @@
       ]
     }
   },
-  "Path To Military Base": {
+  "Kitrios Armory": {
     "resources": {
       "emeralds": "9000",
       "ore": "3600",
@@ -4279,7 +4339,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        51,
+        -5297
+      ],
+      "end": [
+        166,
+        -5391
+      ]
+    }
   },
   "Unicorn Trail": {
     "resources": {
@@ -4623,7 +4693,7 @@
       "Cinfras Outskirts",
       "Guild Hall",
       "Entrance to Cinfras",
-      "Aldorei's River"
+      "Aldorei River"
     ],
     "Location": {
       "start": [
@@ -5838,7 +5908,7 @@
       ]
     }
   },
-  "Canyon Survivor": {
+  "Troll Tower": {
     "resources": {
       "emeralds": "9000",
       "ore": "0",
@@ -5855,7 +5925,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        338,
+        -4628
+      ],
+      "end": [
+        269,
+        -4522
+      ]
+    }
   },
   "Big Mushroom Cave": {
     "resources": {
@@ -5866,9 +5946,9 @@
       "wood": "3600"
     },
     "Trading Routes": [
-      "Aldorei's North Exit",
+      "Waterfall Cave",
       "Cinfras's Small Farm",
-      "Aldorei's Waterfall"
+      "Aldorei Cliffside Waterfalls"
     ],
     "Guild": {
       "uuid": "",
@@ -6106,14 +6186,24 @@
     },
     "Trading Routes": [
       "Krolton's Cave",
-      "Valley of the Lost"
+      "Elefolk Stomping Grounds"
     ],
     "Guild": {
       "uuid": "",
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        440,
+        -4672
+      ],
+      "end": [
+        341,
+        -4838
+      ]
+    }
   },
   "Gateway to Nothing": {
     "resources": {
@@ -6452,7 +6542,7 @@
       ]
     }
   },
-  "Aldorei's Arch": {
+  "Timeworn Arch": {
     "resources": {
       "emeralds": "9000",
       "ore": "3600",
@@ -6462,14 +6552,24 @@
     },
     "Trading Routes": [
       "Panda Path",
-      "Path To The Arch"
+      "Pine Pillar Forest"
     ],
     "Guild": {
       "uuid": "",
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        33,
+        -4367
+      ],
+      "end": [
+        107,
+        -4519
+      ]
+    }
   },
   "Castle Dullahan": {
     "resources": {
@@ -6769,7 +6869,7 @@
       ]
     }
   },
-  "Aldorei's Waterfall": {
+  "Aldorei Cliffside Waterfalls": {
     "resources": {
       "emeralds": "9000",
       "ore": "0",
@@ -6779,15 +6879,24 @@
     },
     "Trading Routes": [
       "Big Mushroom Cave",
-      "Aldorei Valley",
-      "Felroc Fields"
+      "Aldorei Valley"
     ],
     "Guild": {
       "uuid": "",
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        -237,
+        -4514
+      ],
+      "end": [
+        -321,
+        -4648
+      ]
+    }
   },
   "Gylia Lakehouse": {
     "resources": {
@@ -7158,7 +7267,7 @@
     },
     "Trading Routes": [
       "Silverbull Headquarters",
-      "Aldorei's North Exit",
+      "Waterfall Cave",
       "Cinfras's Small Farm"
     ],
     "Guild": {
@@ -7308,10 +7417,10 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Valley of the Lost",
+      "Elefolk Stomping Grounds",
       "Housing Crisis",
       "Protector's Pathway",
-      "Canyon Survivor",
+      "Troll Tower",
       "Canyon Dropoff"
     ],
     "Guild": {
@@ -7363,7 +7472,7 @@
     },
     "Acquired": ""
   },
-  "Raider's Base Lower": {
+  "Raiders' Airbase": {
     "resources": {
       "emeralds": "9000",
       "ore": "3600",
@@ -7372,14 +7481,24 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Raider's Base Upper"
+      "Raiders' Stronghold"
     ],
     "Guild": {
       "uuid": "",
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        1558,
+        -4316
+      ],
+      "end": [
+        1305,
+        -4253
+      ]
+    }
   },
   "Time Valley": {
     "resources": {
@@ -7453,7 +7572,7 @@
     },
     "Trading Routes": [
       "Burning Farm",
-      "Path To The Arch"
+      "Pine Pillar Forest"
     ],
     "Guild": {
       "uuid": "",
@@ -7581,7 +7700,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        244,
+        -5407
+      ],
+      "end": [
+        168,
+        -5315
+      ]
+    }
   },
   "Canyon Walkway": {
     "resources": {
@@ -9187,7 +9316,7 @@
     },
     "Trading Routes": [
       "Outer Aldorei Town",
-      "Aldorei's Waterfall"
+      "Aldorei Cliffside Waterfalls"
     ],
     "Guild": {
       "uuid": "",
@@ -9355,7 +9484,7 @@
     },
     "Acquired": ""
   },
-  "Aldorei's River": {
+  "Aldorei River": {
     "resources": {
       "emeralds": "9000",
       "ore": "0",
@@ -9372,7 +9501,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        -437,
+        -4656
+      ],
+      "end": [
+        -338,
+        -4756
+      ]
+    }
   },
   "Cliffside Passage North": {
     "resources": {
@@ -9711,7 +9850,7 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Raider's Base Upper",
+      "Raiders' Stronghold",
       "Central Islands",
       "Sky Falls",
       "Jofash Tunnel",
@@ -9852,7 +9991,7 @@
       ]
     }
   },
-  "Aldorei's North Exit": {
+  "Waterfall Cave": {
     "resources": {
       "emeralds": "1800",
       "ore": "900",
@@ -9863,14 +10002,24 @@
     "Trading Routes": [
       "Big Mushroom Cave",
       "Paper Trail",
-      "Path To The Arch"
+      "Pine Pillar Forest"
     ],
     "Guild": {
       "uuid": "",
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        -127,
+        -4639
+      ],
+      "end": [
+        3,
+        -4509
+      ]
+    }
   },
   "Path to Light's Secret": {
     "resources": {
@@ -10120,7 +10269,7 @@
     },
     "Trading Routes": [
       "Featherfall Cliffs",
-      "Valley of the Lost",
+      "Elefolk Stomping Grounds",
       "Kandon-Beda",
       "Elephelk Trail"
     ],
@@ -10250,7 +10399,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        337,
+        -4855
+      ],
+      "end": [
+        271,
+        -4741
+      ]
+    }
   },
   "Kitrios Barracks": {
     "resources": {
@@ -10262,7 +10421,7 @@
     },
     "Trading Routes": [
       "Colourful Mountaintop",
-      "Path To Military Base",
+      "Kitrios Armory",
       "Gylia Watchtower"
     ],
     "Guild": {
@@ -10643,7 +10802,7 @@
     },
     "Acquired": ""
   },
-  "Path To The Arch": {
+  "Pine Pillar Forest": {
     "resources": {
       "emeralds": "9000",
       "ore": "3600",
@@ -10652,8 +10811,8 @@
       "wood": "0"
     },
     "Trading Routes": [
-      "Aldorei's North Exit",
-      "Aldorei's Arch",
+      "Waterfall Cave",
+      "Timeworn Arch",
       "Evergreen Outbreak"
     ],
     "Guild": {
@@ -10661,7 +10820,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        35,
+        -4521
+      ],
+      "end": [
+        107,
+        -4641
+      ]
+    }
   },
   "Guardian of the Forest": {
     "resources": {
@@ -11105,7 +11274,17 @@
       "name": "",
       "prefix": ""
     },
-    "Acquired": ""
+    "Acquired": "",
+    "Location": {
+      "start": [
+        -515,
+        -610
+      ],
+      "end": [
+        -600,
+        -790
+      ]
+    }
   },
   "Cliffside Passage South": {
     "resources": {
@@ -11238,7 +11417,7 @@
       "Winding Waters",
       "Panda Kingdom",
       "Turncoat Turnabout",
-      "Canyon Survivor"
+      "Troll Tower"
     ],
     "Guild": {
       "uuid": "",
